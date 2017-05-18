@@ -1,0 +1,15 @@
+две
+NUMR,femn,nomn
+NUMR,inan,femn,accs
+~~~~
+минуты
+NOUN,inan,femn,sing,gent
+NOUN,inan,femn,plur,nomn
+NOUN,inan,femn,plur,accs
+~~~~
+подождите
+VERB,perf,tran,plur,impr,excl
+~~~~
+.
+PNCT
+~~~~
